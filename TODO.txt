@@ -1,0 +1,6 @@
+This is a .txt document that outines the next most steps in the project.
+
+TODO - 
+	Download some fonts for stylesheets.
+	Create some @font-face variables in CSS to throw some cool text
+	into project.
