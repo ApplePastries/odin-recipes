@@ -1,0 +1,14 @@
+#header {
+    position: relative;
+    font-family: sans-serif;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: -5px;
+    font-size: 5vw;
+    text-align: center;
+    color:gold;
+    background-color: gray;
+    bottom: 2vw;
+    opacity: 1;
+    animation: intro 2s forwards;
+}
