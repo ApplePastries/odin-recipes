@@ -11,12 +11,18 @@ body {
 
 div {
     margin-left: 20vw;
+    margin-right: 20vw;
     text-align: left;
     font-size: 2vw;
+    background-color: whitesmoke;
+    border: 15px solid gold;
 }
 
 #header {
+    margin-top: 0;
     font-weight: bold;
+    background-color: silver;
+    border: 15px solid gold;
 }
 
 #garfield {
@@ -28,6 +34,10 @@ div {
 #image-label {
     font-size: 18px;
     font-weight: bold
+}
+
+#link {
+    font-size: 2vw
 }
 
 @font-face {
