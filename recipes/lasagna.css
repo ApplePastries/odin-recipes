@@ -1,0 +1,47 @@
+body {
+    font-family: "architectsDaughter", "amythysta", sans-serif;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    font-size: 5vw;
+    text-align: center;
+    color: darkslategray;
+    background-color: burlywood;
+    opacity: 1;
+}
+
+div {
+    margin-left: 20vw;
+    text-align: left;
+    font-size: 2vw;
+}
+
+#header {
+    margin-top: 0;
+    font-weight: bold;
+    background-color: silver;
+    border: 15px solid gold;
+}
+
+#lasagna {
+    height: auto;
+    width: 1000px;
+    border: 15px solid gold;
+    }
+
+#image-label {
+    font-size: 18px;
+    font-weight: bold
+}
+
+#link {
+    font-size: 2vw
+}
+@font-face {
+    font-family: "architectsDaughter";
+    src: url(../fonts/architectsDaughter.ttf);
+}
+
+@font-face {
+    font-family: "amethysta";
+    src: url(../fonts/amethysta.ttf);
+}
