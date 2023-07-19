@@ -1,14 +1,41 @@
-#header {
-    position: relative;
-    font-family: sans-serif;
+body {
+    font-family: "architectsDaughter", "amythysta", sans-serif;
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    margin-bottom: -5px;
     font-size: 5vw;
     text-align: center;
-    color:gold;
-    background-color: gray;
-    bottom: 2vw;
+    color: darkslategray;
+    background-color: burlywood;
     opacity: 1;
-    animation: intro 2s forwards;
+}
+
+div {
+    margin-left: 20vw;
+    text-align: left;
+    font-size: 2vw;
+}
+
+#header {
+    font-weight: bold;
+}
+
+#garfield {
+    height: auto;
+    width: 1250px;
+    border: 15px solid gold;
+    }
+
+#image-label {
+    font-size: 18px;
+    font-weight: bold
+}
+
+@font-face {
+    font-family: "architectsDaughter";
+    src: url(fonts/architectsDaughter.ttf);
+}
+
+@font-face {
+    font-family: "amethysta";
+    src: url(fonts/amethysta.ttf);
 }
